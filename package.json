@@ -1,0 +1,21 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "blogwebsite": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dompurify": "^3.0.8",
+    "express": "^4.18.2",
+    "jsdom": "^24.0.0",
+    "marked": "^12.0.0",
+    "method-override": "^3.0.0",
+    "mongoose": "^8.1.1",
+    "nodemon": "^3.0.3",
+    "slugify": "^1.6.6"
+  }
+}
